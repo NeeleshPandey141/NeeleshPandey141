@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neelesh Pandey</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | C++ | Web Dev | Problem Solver</h3>
 
-- 🔭 I’m currently working on **Web Development and DSA**
+- 🔭 I’m currently working on **Web Development and Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **C++, Python, HTML, CSS, JavaScript**
 
